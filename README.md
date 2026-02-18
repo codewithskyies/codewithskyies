@@ -4,9 +4,7 @@
 
 🎓 B.Tech Student | Python , Data science  | 🤖 Machine Learning Enthusiast
 
-Here are some ideas to get you started:
 🔭 I’m currently learning  Machine Learning & Data Science 
-
 
 💬 Ask me about Python, Machine Learning, NLP, Django, Data Preprocessing, Feature Engineering
 
