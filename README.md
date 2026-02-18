@@ -6,7 +6,7 @@
 
 🔭 I’m currently learning  Machine Learning & Data Science 
 
-💬 Ask me about Python, Machine Learning, NLP, Django, Data Preprocessing, Feature Engineering
+💬 Ask me about Python, Machine Learning, NLP, Data Preprocessing, Feature Engineering
 
 📫 How to reach me: [aakashsahuu0188@gmail.com
 ] | LinkedIn: [https://www.linkedin.com/feed/]
